@@ -17,7 +17,7 @@
 # Useful Websites
 <ul>
 <li>https://stackoverflow.com/questions/tagged/java<br></li>
-<li>https://www.guru99.com/java-swing-gui.html#:~:text=like%20the%20Frame.-,<br>What%20is%20GUI%20in%20Java%3F,can%20interact%20with%20an%20application.</li>
+<li>https://www.guru99.com/java-swing-gui.html#:~:text=like%20the%20Frame.-What%20is%20GUI%20in%20Java%3F,can%20interact%20with%20an%20application.</li>
 <li>https://steemit.com/programming/@drifter1/programming-java-gui-examples</li>
 </ul>
 
