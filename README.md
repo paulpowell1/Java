@@ -12,6 +12,7 @@
 <p>I used Eclipse to develop this project. I tried to use window builder for the GUI but I couldn't get it to work.</p>
 
 <p>I used Java and had to import alot of libraries. Thankfully Eclipse tends to do alot of that stuff automaticly.</p> 
+<p>Due note I changed the filename from DND.java to dnd.java to put the README at the top.</p>
 
 # Useful Websites
 <ul>
